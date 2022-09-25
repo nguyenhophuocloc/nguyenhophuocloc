@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Loc</h1>
 <h3 align="center">I'm web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phuocloc14&label=Profile%20views&color=0e75b6&style=flat" alt="phuocloc14" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=phuocloc14&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenhophuocloc" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phuocloc14" alt="phuocloc14" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nguyenhophuocloc" alt="nguyenhophuocloc" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
