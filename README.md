@@ -58,8 +58,6 @@
                 src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenhophuocloc&show_icons=true&locale=en&layout=compact" alt="nguyenhophuocloc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenhophuocloc&show_icons=true&locale=en" alt="nguyenhophuocloc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenhophuocloc&" alt="nguyenhophuocloc" /></p>
